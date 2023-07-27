@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Marhey';
+    src: url('fonts/Marhey-Regular.eot');
+    src: url('fonts/Marhey-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Marhey-Regular.woff2') format('woff2'),
+         url('fonts/Marhey-Regular.woff') format('woff'),
+         url('fonts/Marhey-Regular.ttf')  format('truetype'),
+         url('fonts/Marhey-Regular.svg#Marhey') format('svg');
+}

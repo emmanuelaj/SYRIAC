@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Serto Urhoy';
+    src: url('fonts/SyrCOMUrhoy.eot');
+    src: url('fonts/SyrCOMUrhoy.eot?#iefix') format('embedded-opentype'),
+         url('fonts/SyrCOMUrhoy.woff2') format('woff2'),
+         url('fonts/SyrCOMUrhoy.woff') format('woff'),
+         url('fonts/SyrCOMUrhoy.ttf')  format('truetype'),
+         url('fonts/SyrCOMUrhoy.svg#Serto Urhoy') format('svg');
+}
